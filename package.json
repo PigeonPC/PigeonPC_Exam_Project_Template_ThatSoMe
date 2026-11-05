@@ -1,0 +1,23 @@
+{
+  "name": "thatsome",
+  "version": "0.0.1",
+  "description": "A simple social media application for Node.js exam project",
+  "keywords": [
+    "social",
+    "media",
+    "posts",
+    "some",
+    "profile",
+    "status"
+  ],
+  "license": "ISC",
+  "author": "PigeonPC",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
